@@ -1,5 +1,6 @@
 # Find-a-CTF-Platform
- 
+Created for https://github.com/23smarks/cyber_mentorship
+
 Java GUI corresponding to a weighted decision matrix for various CTF platforms. The matrix was created after a careful evaluation of various CTF platforms. The closer to 5, the higher the ranking. These rankings were from my own personal observations. See the decision matrix with no weights applied below. 
 
 <img width="352" alt="image" src="https://user-images.githubusercontent.com/56458880/236636143-784a69af-a443-43e2-9e87-006eee01eab9.png">
